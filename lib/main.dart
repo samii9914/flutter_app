@@ -6,9 +6,9 @@ void main()
   runApp(
     MaterialApp(
       debugShowCheckedModeBanner: false,
-      title:"Exploring UI Widgets",
+      title:"Spicejet.com",
       home:Scaffold(
-        appBar: AppBar(title:Text("Exploring UI Widgets"),backgroundColor: Colors.orangeAccent,),
+        appBar: AppBar(title:Text("Spicejet.com"),backgroundColor: Colors.orangeAccent,),
         body:Home()
       )
     )
